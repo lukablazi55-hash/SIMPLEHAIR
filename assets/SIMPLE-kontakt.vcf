@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;SIMPLE frizerski salon;;;
+FN:SIMPLE frizerski salon
+ORG:SIMPLE frizerski salon
+TEL;TYPE=WORK,VOICE:+38598266777
+ADR;TYPE=WORK:;;Braće Fućak 5b;Rijeka;;51000;Hrvatska
+NOTE:Zrinka Vrkić — rezervacije i informacije.
+END:VCARD
