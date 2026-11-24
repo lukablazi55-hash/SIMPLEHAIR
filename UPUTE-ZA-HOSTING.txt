@@ -1,0 +1,30 @@
+SIMPLE — UPUTE ZA POSTAVLJANJE
+
+1. Raspakirajte ZIP u glavnu mapu web stranice (npr. public_html, www ili htdocs).
+2. index.html mora biti izravno u toj mapi, uz style.css, script.js i mapu assets.
+3. Otvorite svoju domenu i provjerite prikaz.
+
+Stranica je statična: ne zahtijeva Node.js, bazu podataka, instalaciju ni build.
+Na vlastitom hostingu nije potrebna ChatGPT prijava.
+Prije zamjene postojeće stranice napravite sigurnosnu kopiju.
+
+SADRŽAJ
+index.html — stranica
+style.css — dizajn i prilagodba mobitelima
+script.js — scroll storytelling i interakcije
+assets/ — slike, logo i kontakt kartica
+
+KONTAKT
+SIMPLE frizerski salon — Zrinka Vrkić
+098 266 777 / +385 98 266 777
+Braće Fućak 5b, 51000 Rijeka
+Google Maps: https://www.google.com/maps?cid=15140757059468566192
+
+Gumb za poziv otvara telefonsku aplikaciju. Spremanje kontakta otvara ili preuzima
+.vcf datoteku; korisnik potvrđuje dodavanje u imenik. Ponašanje ovisi o uređaju.
+
+Google Fonts i Google Maps učitavaju se s interneta. Sve fotografije,
+animacije i kontakt kartica su u paketu. Ako je karta blokirana, ostaje
+izravna poveznica na Google Maps. Uvod uključuje označenu AI vizualizaciju.
+
+Nakon objave provjerite poziv, preuzimanje kontakta, kartu i mobilni prikaz.
